@@ -1,0 +1,48 @@
+Project Idea: Getting Started in Gym
+
+Menu
+Add Alt tags and non clashing colours
+Make sure foreground not distracted by background
+Consistent graphics in colour and style
+embedd some video/audio ( Examples of exercises)
+
+At least 3 pages
+Custom html passing W3 validation
+Custom css passing Jigsaw validation
+make sure images are a good res
+Open all EXTERNAL links in new tab (_blank)
+Make change with device size
+Make resources clear to navigate
+
+Use GitHub to launch website
+Use Github for version control (newest version updates etc)
+Ensure all internal links work
+Remove all comments
+Screenshot of project for the README
+
+
+Write a README.md file for the web application that explains its purpose, the value that it provides to its users, and the deployment procedure.
+Give screenshots of each feature and a brief description
+attribute external code to original source with a comments
+
+No Spaces or Caps in file names
+Make readable
+Group files by filetype Asset folder with all static files
+
+Make it obvious instantly what the website is about - Landing Page
+Give an excellent solution to the project goal 
+Document bugs and fixes
+
+
+
+	Landing Page - Speak about feelings of being lost and not knowing where to start. 
+	About the Author
+	Find your rep range - Speak about 1rm and its meaning with a link to 1rm calculator
+	Split plans - Speak about frequency and intensity as well as fitting in with your own life
+	Nutrition and Supplimentation - Bulk/Cut/Recomp - 1g-1.5g per lb of lean body mass etc
+	Exercise Library  - Chest/Shoulders/tricep/Back/Biceps/Legs
+	Resources - Links and speak about influence of each person.
+
+
+exampleimages(Folder)
+
