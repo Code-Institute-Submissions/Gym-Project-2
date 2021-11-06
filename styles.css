@@ -1,7 +1,7 @@
 body{
     background-color: #19191a;
     margin:0;
-    padding: 0;
+    padding-bottom: 50px;
     background-image: url(assets/shop.jpg);
     background-position: center center;
     background-repeat: no-repeat;
@@ -9,17 +9,20 @@ body{
     background-attachment: fixed;
     text-align: center;
     font-family: 'Roboto', sans-serif;
+    color: white;
 }
 
 body h1{
-    color: white;
-    text-align: center;
     font-size: 40px;
 }
 body h2{
-    color: white;
-    text-align: center;
     font-size: 30px;
+    text-decoration: underline;
+}
+body h3{
+    font-size: 25px;
+    color: #8c72af;
+    text-decoration: underline;
 }
 body p{
     color: white;
@@ -42,6 +45,7 @@ header{
     margin: 0 0;
     padding: 0;
     border-radius: 10px;
+    text-align: center;
 
 }
 
