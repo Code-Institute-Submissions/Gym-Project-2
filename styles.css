@@ -50,7 +50,9 @@ header{
 }
 
 .logo {
-    height: 90px;
+    padding-top: 1vw;
+    padding-left: 2vw;
+    height: 70px;
     width: 100px;
     float:left;
 }
