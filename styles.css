@@ -30,6 +30,12 @@ body p{
 
 }
 
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #c796e7;
+
+}
+
 .getstarted {
     height: 300px;
     display: block;
