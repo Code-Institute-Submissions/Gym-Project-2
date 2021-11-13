@@ -45,7 +45,7 @@ a{
 }
 
 header{
-    background-image:linear-gradient(#4e097c,#920dc7) ;
+    background-image:linear-gradient(#8c43bd,#814699) ;
     height: 90px;
     opacity: 90%;
     margin: 0 0;
@@ -84,10 +84,10 @@ header{
 
   }
   .navbar :hover
-  {color:hsl(221, 33%, 58%);
-    opacity: 40%;
-    background-color: #000000;
-    border-radius: 120px;
+  {color:hsl(221, 62%, 65%);
+    opacity: 50%;
+    background-color: #d8d5bd;
+    border-radius: 100px;
 }
 th, td, table{
     border: 2px solid white;
@@ -101,7 +101,7 @@ table {
     #foot{
         position: fixed;
         bottom: 0;
-        background-image:linear-gradient(#4e097c,#920dc7) ;
+        background-image:linear-gradient(#8c43bd,#814699) ;
         color: white;
         width: 100vw;
     }
