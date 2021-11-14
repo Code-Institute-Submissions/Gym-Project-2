@@ -34,6 +34,9 @@ No Errors were found passing though the jigsaw CSS validator
 ![Image of the homepage](assets/pass.jpg)
 
 # Deployment
+The website was deployed using GitHub. I was working on the project from my home PC as well as my laptop on the go. GitHub made this easy as I pushed each change to the repository then just pulled the code to my second device. 
+Each commit was made with notes on what was changed in the code including style changes and even a logo change.
+The live link can be found here: https://liamh97.github.io/Gym-Project/
 # Credits
 ## Embedded videos
 The videos that were embedded in the Library page were taken directly from youtube's embedd code on each video.
