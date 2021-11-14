@@ -13,13 +13,19 @@ The Exercise Library contains links to videos showing how to do each of the exer
 The home page is centered around an image telling the user to just get started in their journey with a brief description of what we hope to achieve.
 ![Image of the homepage](assets/home.jpg)
 # Routine Page
-
+The routine page gives a breakdown of some key techniques to employ when weight training as well as a schedule and list of exercises to do on each day. We are following a Push,Pull,Legs routine.
+This is a very common and well researched training routine.
+![Image of the routine page](assets/routine.jpg)
 # Nutrition Page
-
+The nutrition page gives the user some basic nutritional and suppliment information. The goal is to show the user the foundation for giving their body what they need when they start weight training. This is supposed to be a simplified guide and doesn't go too in-depth into nutrition as the amount of information out there on this topic can be overwhelming.
+![Image of the nutrition page](assets/nutrition.jpg)
 # Rep Range Page
-
+The rep range page shows the user a way to calculate what kind of weight they should be lifting and how many repitions they should do for each. Again, this is a simplified version as there are lots of studies and an abundance of information on this topic, but I boil it down to the main points.
+![Image of the rep range page](assets/reprange.jpg)
 # Resource Page
-
+In the resource page I list all the people that influenced the website or people who I learned from when starting out with my own journey in th gym. I feel like it is important for me to give the user the ability to look further into the information for themselves.
+Where I compiled as much information as I could for the user, I didn't want it to be overwhelming as they are only at the beginning of their journey. Here they can take themselves as far as they want to go with outside sources.
+![Image of the resource page](assets/resources.jpg)
 # Testing
 
 ## Validator Testing
