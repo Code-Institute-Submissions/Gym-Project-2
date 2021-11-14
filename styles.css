@@ -2,11 +2,6 @@ body{
     background-color: #19191a;
     margin:0;
     padding-bottom: 50px;
-    background-image: url(assets/shop.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
     text-align: center;
     font-family: 'Roboto', sans-serif;
     color: white;
