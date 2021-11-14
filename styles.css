@@ -75,13 +75,19 @@ header{
             }
         
             }
-            @media (max-width:1000px){
+            @media (max-width:900px){
                 .navbar a {
                     font-size: 6px;
                 }
-            
-                }
 
+                }
+            @media (max-width:800px){
+                .container{
+                    padding: 2px;
+                    width:110%;
+                    margin-bottom: 20px;
+                }
+            }
 
 .logo {
     padding-top: 1vw;
