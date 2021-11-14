@@ -22,7 +22,7 @@ The home page is centered around an image telling the user to just get started i
 
 # Testing
 
-# Validator Testing
+## Validator Testing
 Errors were initially found when passing through the validator for HTML. There were some unclosed tags and the header tag was initially outside the body tag.
 No Errors were found passing though the jigsaw CSS validator
 ![Image of the homepage](assets/pass.jpg)
